@@ -1,0 +1,15 @@
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\bin\Debug\net6.0\ControlTest.exe
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\bin\Debug\net6.0\ControlTest.deps.json
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\bin\Debug\net6.0\ControlTest.runtimeconfig.json
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\bin\Debug\net6.0\ControlTest.dll
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\bin\Debug\net6.0\ControlTest.pdb
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\obj\Debug\net6.0\ControlTest.csproj.AssemblyReference.cache
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\obj\Debug\net6.0\ControlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\obj\Debug\net6.0\ControlTest.AssemblyInfoInputs.cache
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\obj\Debug\net6.0\ControlTest.AssemblyInfo.cs
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\obj\Debug\net6.0\ControlTest.csproj.CoreCompileInputs.cache
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\obj\Debug\net6.0\ControlTest.dll
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\obj\Debug\net6.0\refint\ControlTest.dll
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\obj\Debug\net6.0\ControlTest.pdb
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\obj\Debug\net6.0\ControlTest.genruntimeconfig.cache
+C:\Users\Ильнур\Desktop\ControlTest\ControlTest\obj\Debug\net6.0\ref\ControlTest.dll
